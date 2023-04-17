@@ -1,5 +1,5 @@
 # First_Neural_Network
-Training on Forest Fire Dataset
+Today,I publish my first neural network with thanks to [Dr. Hamed Ghasemi](https://ir.linkedin.com/in/hamed-ghasemi-1010a8166). Training on the Forest Fire Dataset
 
 Model: 'sequential'
 
