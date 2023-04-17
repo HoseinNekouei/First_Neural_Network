@@ -15,11 +15,11 @@ loss: 'categorical_crossentropy'
 
 Metrics: 'Accuracy'
 
-Number of dataset files: 1000 
+Number of images: 1000 
 
-loss ratio: 0.15
+loss: 0.15
 
-Accuracy ratio: 0.96
+Accuracy: 0.96
 
 ![Loss Chart](https://github.com/HoseinNekouei/First_Neural_Network/blob/main/loss_chart.png)
 
