@@ -21,4 +21,5 @@ loss ratio: 0.15
 
 Accuracy ratio: 0.96
 
+![Loss Chart](https://github.com/HoseinNekouei/First_Neural_Network/blob/main/loss_chart.png)
 
